@@ -12,6 +12,13 @@ header {
   text-align: center;
 }
 
+footer {
+  text-align: left;
+  padding: 3px;
+  background-color: #333;
+  color: white;
+}
+
 nav {
   background-color: #444;
   padding: 10px;
@@ -147,5 +154,23 @@ nav a {
 }
 
 .copy-button:hover {
+  background-color: #383838;
+}
+
+/*========== COPY BUTTON ==========*/
+#go-up-button {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #292929;
+  color: #ffffff;
+  border: none;
+  border-radius: 0%;
+  padding: 10px;
+  cursor: pointer;
+}
+
+#go-up-button:hover {
   background-color: #383838;
 }

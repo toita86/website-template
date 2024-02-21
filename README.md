@@ -4,7 +4,7 @@ This repository contains the source code for my personal website.
 
 ## Description
 
-This website serves as a personal space on the web for Name Surname. It includes sections such as Home, About, Projects, and Contact. It's thiked to be as easy and light as possible to grant the use on every device. It's supposed to be as simple and minimalist as possible.
+This website serves as a personal space on the web for Name Surname. It includes sections such as Home, About, Projects, and Contact. It's thinked to be as easy and light as possible to grant the use on every device. It's supposed to be as simple and minimalist as possible.
 
 ## License
 
